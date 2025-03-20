@@ -1,0 +1,8 @@
+{
+  "name": "secondAppTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "be7c3920"
+}
